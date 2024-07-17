@@ -11,6 +11,9 @@ public class Aluno {
 		String registroGeral;
 		String numeroCpf;
 		
+		public static String APROVADO = "Aprovado";
+		
+		
 		public Aluno(int idade){
 			this.idade = idade;
 		}

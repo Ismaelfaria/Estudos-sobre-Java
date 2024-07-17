@@ -8,7 +8,8 @@ public class PrimeiraInstancia {
 		//aluno é uma referência
 		Aluno aluno = new Aluno(18);
 		
-		System.out.println(aluno);
+		
+		System.out.println(aluno.APROVADO);
 
 	}
 
